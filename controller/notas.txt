@@ -1,0 +1,14 @@
+En este paquete se crearán los controladores de las interfaces y en sí las
+funcionalidades completas del sistema.
+
+
+controller/
+├── gestor_advertencia.py
+├── gestor_boleto.py
+├── gestor_formulario.py
+├── gestor_plantilla.py
+├── gestor_ticket.py
+├── __init__.py
+└── notas.txt
+
+0 directories, 7 files

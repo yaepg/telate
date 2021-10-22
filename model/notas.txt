@@ -1,0 +1,13 @@
+Aquí se programarán las interaces que serán utilizadas para conectar con la base
+de datos.
+
+También hay que incluir el conector (driver para MYSQL)
+model/
+├── contacto_boleto.py
+├── contacto_formulario.py
+├── contacto_plantilla.py
+├── contacto_ticket.py
+├── __init__.py
+└── notas.txt
+
+0 directories, 6 files

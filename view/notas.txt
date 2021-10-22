@@ -1,0 +1,17 @@
+En este módulo view (vista) se implementarán las interfaces de usuario del
+sistema.
+view/
+├── advertencia.py
+├── boleto.py
+├── formulario.py
+├── __init__.py
+├── interfaz_advertencia.py
+├── interfaz_boleto.py
+├── interfaz_formulario.py
+├── interfaz_plantilla.py
+├── interfaz_ticket.py
+├── notas.txt
+├── plantilla.py
+└── ticket.py
+
+0 directories, 12 files
